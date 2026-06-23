@@ -1,5 +1,3 @@
----
-
 # Documentazione del Progetto Pacman – Alla conquista del Labirinto
 
 **Corso di Laurea Triennale in Informatica (a.a. 2025-2026)**
