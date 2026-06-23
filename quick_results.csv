@@ -1,0 +1,61 @@
+Test,Algoritmo,Lunghezza,Costo
+1,DFS,57,75
+1,A*,25,30
+1,Ricerca Bidirezionale,23,36
+2,DFS,55,75
+2,A*,33,50
+2,Ricerca Bidirezionale,23,33
+3,DFS,71,99
+3,A*,23,23
+3,Ricerca Bidirezionale,23,33
+4,DFS,69,106
+4,A*,23,25
+4,Ricerca Bidirezionale,23,42
+5,DFS,75,111
+5,A*,25,31
+5,Ricerca Bidirezionale,23,31
+6,DFS,33,48
+6,A*,27,38
+6,Ricerca Bidirezionale,23,23
+7,DFS,57,73
+7,A*,25,30
+7,Ricerca Bidirezionale,23,24
+8,DFS,69,96
+8,A*,25,31
+8,Ricerca Bidirezionale,23,34
+9,DFS,51,78
+9,A*,23,23
+9,Ricerca Bidirezionale,23,28
+10,DFS,61,82
+10,A*,23,24
+10,Ricerca Bidirezionale,23,23
+11,DFS,63,87
+11,A*,23,24
+11,Ricerca Bidirezionale,23,23
+12,DFS,55,77
+12,A*,23,26
+12,Ricerca Bidirezionale,23,30
+13,DFS,53,68
+13,A*,27,37
+13,Ricerca Bidirezionale,23,30
+14,DFS,69,87
+14,A*,25,32
+14,Ricerca Bidirezionale,23,31
+15,DFS,63,84
+15,A*,25,33
+15,Ricerca Bidirezionale,23,30
+16,DFS,55,77
+16,A*,25,32
+16,Ricerca Bidirezionale,23,33
+17,DFS,61,85
+17,A*,23,24
+17,Ricerca Bidirezionale,23,31
+18,DFS,81,107
+18,A*,23,32
+18,Ricerca Bidirezionale,23,29
+19,DFS,53,63
+19,A*,23,35
+19,Ricerca Bidirezionale,23,29
+20,DFS,59,79
+20,A*,23,29
+20,Ricerca Bidirezionale,23,29

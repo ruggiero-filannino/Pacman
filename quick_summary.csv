@@ -1,0 +1,6 @@
+,Lunghezza,Lunghezza,Lunghezza,Lunghezza,Costo,Costo,Costo,Costo
+,mean,min,max,std,mean,min,max,std
+Algoritmo,,,,,,,,
+A*,24.6,23,33,2.39,30.45,23,50,6.51
+DFS,60.5,33,81,10.38,82.85,48,111,15.46
+Ricerca Bidirezionale,23.0,23,23,0.0,30.1,23,42,4.68
