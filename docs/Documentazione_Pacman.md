@@ -1,5 +1,3 @@
-Ecco una versione revisionata e ampliata della tua documentazione. Ho mantenuto intatto il significato originale e la struttura, approfondendo le argomentazioni, arricchendo il lessico tecnico e dettagliando meglio le logiche alla base delle scelte progettuali.
-
 ---
 
 # Documentazione del Progetto Pacman – Alla conquista del Labirinto
